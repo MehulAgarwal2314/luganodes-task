@@ -10,8 +10,6 @@ deposits.js: Manages the database interactions.
 deposit.js: Contains the server-side code.
 Frontend: Houses the ReactJS frontend code.
 
-# Setup Instructions
-
 # Prerequisites
 Node.js
 npm or yarn
